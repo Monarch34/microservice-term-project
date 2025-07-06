@@ -1,0 +1,7 @@
+/* Eğer projenize özel, Tailwind ile çözemediğiniz global stilleriniz varsa buraya ekleyebilirsiniz. */
+/* Şimdilik, Vite varsayılanlarını temizliyoruz. */
+
+/* Örneğin, tüm uygulamada belirli bir font ailesi kullanmak isterseniz (Tailwind config dışında): */
+/* body { */
+/* font-family: 'Your Custom Font', sans-serif; */
+/* } */
